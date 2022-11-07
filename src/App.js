@@ -1,5 +1,5 @@
-import RegistracionForm from "./Components/RegistracionForm";
-import ProfileForm from "./Components/ProfileForm";
+import RegistracionForm from "./components/RegistracionForm";
+import ProfileForm from "./components/ProfileForm";
 
 function App() {
   return <>
